@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-<img src="https://github.com/CinquilCinquil/CinquilCinquil/blob/main/walkciclehard.gif" width="125" height="93"/>
+###
 
 #### my attempt at making a walkcicle
+
+<img src="https://github.com/CinquilCinquil/CinquilCinquil/blob/main/walkciclehard.gif" width="125" height="93"/>
+
+#### cool image i made on one of my coding adventures (1)
+
+<img src="https://github.com/CinquilCinquil/CinquilCinquil/blob/main/imagem_legal.png" width="352" height="320"/>
+
+#### cool image i made on one of my coding adventures (2)
+
+<img src="https://github.com/CinquilCinquil/CinquilCinquil/blob/main/perspective2.png" width="352" height="320"/>
 
 ### Bye there 👋
 
