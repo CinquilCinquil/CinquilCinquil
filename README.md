@@ -2,7 +2,7 @@
 
 ###
 
-#### my attempt at making a walkcicle
+#### my attempt at making a walk cycle
 
 <img src="https://github.com/CinquilCinquil/CinquilCinquil/blob/main/walkciclehard.gif" width="125" height="93"/>
 
