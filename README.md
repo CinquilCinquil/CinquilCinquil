@@ -2,10 +2,6 @@
 
 ###
 
-#### my attempt at making a walk cycle
-
-<img src="https://github.com/CinquilCinquil/CinquilCinquil/blob/main/walkciclehard.gif" width="125" height="93"/>
-
 #### cool image i made on one of my coding adventures (1)
 
 <img src="https://github.com/CinquilCinquil/CinquilCinquil/blob/main/imagem_legal.png" width="352" height="320"/>
