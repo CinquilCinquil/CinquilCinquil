@@ -2,13 +2,13 @@
 
 🎓 I'm a student of IT at [UFRN](https://www.ufrn.br) with experience in Game Development 👾, Back-End 💾 and Reinforcement Learning 🤖.
 
-<h3>Contact</h3>
+<h2>Contact</h2>
 
 📬 E-mail: carlosvallerosafilho@gmail.com
 
 🏢 LinkedIn: [cinquilcinquil](https://www.linkedin.com/in/cinquilcinquil/)
 
-<h3>Languages</h3>
+<h2>Languages</h2>
 
 <img src="https://skillicons.dev/icons?i=python,java,cs,c,haskell">
 
@@ -21,11 +21,11 @@
 <h3> Others </h3>
 <img src="https://skillicons.dev/icons?i=docker">
 
-<h3>Experience</h3>
+<h2>Experience</h2>
 
 WIP
 
-<h3>Stats</h3>
+<h2>Stats</h2>
 
 <p>
   <br>
@@ -34,7 +34,7 @@ WIP
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CinquilCinquil&theme=gotham&utcOffset=8" href="http://github.com/CinquilCinquil" style="width: 300px;">
 </p>
 
-<h3>Extras</h3>
+<h2>Extras</h2>
 
 I'm very found of doing digital art 🖼️, be it while exploring visualizations or just trying to make a cool design overall. Here are some examples of what i've made:
 
