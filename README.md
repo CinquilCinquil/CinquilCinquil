@@ -10,7 +10,7 @@
 
 <h2>Languages</h2>
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,c,haskell">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,c,haskell">
 
 <h3> Game Engines </h3>
 <img src="https://skillicons.dev/icons?i=gamemakerstudio,unity">
