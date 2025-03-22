@@ -21,10 +21,6 @@
 <h3> Others </h3>
 <img src="https://skillicons.dev/icons?i=docker">
 
-<h2>Experience</h2>
-
-WIP
-
 <h2>Stats</h2>
 
 <p>
